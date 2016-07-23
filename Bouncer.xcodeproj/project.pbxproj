@@ -14,6 +14,7 @@
 		08DBFC441B24330900FE219A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 08DBFC421B24330900FE219A /* LaunchScreen.xib */; };
 		08DBFC501B24330900FE219A /* BouncerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08DBFC4F1B24330900FE219A /* BouncerTests.swift */; };
 		08DBFC5A1B2433F200FE219A /* BouncerBehavior.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08DBFC591B2433F200FE219A /* BouncerBehavior.swift */; };
+		BBFF5A3F1D43894E007FBE6D /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = BBFF5A3E1D43894E007FBE6D /* Settings.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		08DBFC4E1B24330900FE219A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		08DBFC4F1B24330900FE219A /* BouncerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BouncerTests.swift; sourceTree = "<group>"; };
 		08DBFC591B2433F200FE219A /* BouncerBehavior.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BouncerBehavior.swift; sourceTree = "<group>"; };
+		BBFF5A3E1D43894E007FBE6D /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				08DBFC391B24330900FE219A /* AppDelegate.swift */,
 				08DBFC591B2433F200FE219A /* BouncerBehavior.swift */,
 				08DBFC3B1B24330900FE219A /* ViewController.swift */,
+				BBFF5A3E1D43894E007FBE6D /* Settings.bundle */,
 				08DBFC371B24330900FE219A /* Supporting Files */,
 			);
 			path = Bouncer;
@@ -197,6 +200,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BBFF5A3F1D43894E007FBE6D /* Settings.bundle in Resources */,
 				08DBFC3F1B24330900FE219A /* Main.storyboard in Resources */,
 				08DBFC441B24330900FE219A /* LaunchScreen.xib in Resources */,
 				08DBFC411B24330900FE219A /* Images.xcassets in Resources */,
